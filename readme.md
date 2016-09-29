@@ -1,3 +1,10 @@
+grunt-1-img
+=============
+
+[grunt-img][grunt-img] with upgraded dependencies for grunt 1.x and npm 3.x
+
+
+
 grunt-img
 =============
 
@@ -83,7 +90,6 @@ grunt.initConfig({
 ## License
 
 MIT License
-(c) [Helder Santana](http://heldr.com)
 
 Credits
 ---------------
@@ -91,6 +97,7 @@ Credits
 
 [node-build-script]: http://github.com/h5bp/node-build-script
 [grunt]: https://github.com/cowboy/grunt
+[grunt-img]: https://github.com/heldr/grunt-img
 [getting_started]: https://github.com/cowboy/grunt/blob/master/docs/getting_started.md
 [jpegtran]: http://jpegclub.org/jpegtran/
 [jpegtran-turbo]: http://libjpeg-turbo.virtualgl.org/

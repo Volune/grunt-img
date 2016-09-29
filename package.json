@@ -1,8 +1,9 @@
 {
-  "name": "grunt-img",
+  "name": "grunt-1-img",
   "version": "0.1.8",
   "description": "Grunt task to optimize png and jpg images with optipng & jpegtran",
   "keywords": [
+    "grunt-img",
     "gruntplugin",
     "png",
     "jpg",
@@ -11,18 +12,11 @@
     "image",
     "web performance"
   ],
-  "homepage": "https://github.com/heldr/grunt-img",
-  "bugs": "https://github.com/heldr/grunt-img/issues",
-  "author": {
-    "name": "Helder Santana",
-    "email": "heldr@me.com",
-    "url": "http://heldr.com"
-  },
   "main": "grunt.js",
   "bin": "bin/grunt-img",
   "repository": {
     "type": "git",
-    "url": "git://github.com/heldr/grunt-img.git"
+    "url": "git://github.com/volune/grunt-img.git"
   },
   "dependencies": {
     "which": "^1.2.11"
@@ -31,11 +25,10 @@
     "grunt": "^1.0.1"
   },
   "engines": {
-    "node": ">=0.6.0"
+    "node": ">=0.6.0",
+    "npm": ">=3.0.0"
   },
-  "licenses": {
-    "type": "MIT"
-  },
+  "license": "MIT",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-release": "~0.14.0",
